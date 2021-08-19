@@ -8,6 +8,4 @@ $ghtr
 # testing rebase feature
 # testing new feature
 #new feature 2
-#try 2
-
 
